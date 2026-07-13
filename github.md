@@ -74,6 +74,7 @@
 | TVBox-壳 | [kknifer7/CatVodSpider-PCx](https://github.com/kknifer7/CatVodSpider-PCx) | TVBOX PC版本的spider |
 | TVBox-壳 | [Silent1566/webhtv](https://github.com/Silent1566/webhtv) | webhtv 基于WebHomeTV二次开发 |
 | TVBox-壳 | [fish2018/webhtv](https://github.com/fish2018/webhtv) | WebHomeTV 基于FongMi二次开发 |
+| TVBox-壳 | [ingriddaleusag-dotcom/PickTV](https://github.com/ingriddaleusag-dotcom/PickTV) | PickTV 基于FongMi二次开发 |
 | TVBox-源 | [fish2018/PG](https://github.com/fish2018/PG) | 阿里/夸克/天翼网盘影视源，4K 原盘秒播 |
 | TVBox-源 | [fish2018/ZX](https://github.com/fish2018/ZX) | 阿里/夸克/天翼网盘影视源，4K 原盘秒播 |
 | TVBox-源 | [meinvtuzai/PyramidStore-18](https://github.com/meinvtuzai/PyramidStore-18) | Python 脚本源，支持自建爬虫，想抓啥抓啥 |
