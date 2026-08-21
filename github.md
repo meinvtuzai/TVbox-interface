@@ -72,9 +72,9 @@
 | TVBox-壳 | [waifu-project/movie](https://github.com/waifu-project/movie) | 二次元风格空壳，看番也能萌萌哒 |
 | TVBox-壳 | [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) | TVBOX PC版本 |
 | TVBox-壳 | [kknifer7/CatVodSpider-PCx](https://github.com/kknifer7/CatVodSpider-PCx) | TVBOX PC版本的spider |
-| TVBox-壳 | [Silent1566/webhtv](https://github.com/Silent1566/webhtv) | webhtv 基于WebHomeTV二次开发 |
-| TVBox-壳 | [fish2018/webhtv](https://github.com/fish2018/webhtv) | WebHomeTV 基于FongMi二次开发 |
-| TVBox-壳 | [ingriddaleusag-dotcom/PickTV](https://github.com/ingriddaleusag-dotcom/PickTV) | PickTV 基于FongMi二次开发 |
+| TVBox-壳 | [Silent1566/webhtv](https://github.com/Silent1566/webhtv) | webhtv 不懂，基于WebHomeTV二次开发 |
+| TVBox-壳 | [fish2018/webhtv](https://github.com/fish2018/webhtv) | WebHomeTV 鱼老，基于FongMi二次开发 |
+| TVBox-壳 | [ingriddaleusag-dotcom/PickTV](https://github.com/ingriddaleusag-dotcom/PickTV) | 羊壳，PickTV 基于FongMi二次开发 |
 | TVBox-源 | [fish2018/PG](https://github.com/fish2018/PG) | 阿里/夸克/天翼网盘影视源，4K 原盘秒播 |
 | TVBox-源 | [fish2018/ZX](https://github.com/fish2018/ZX) | 阿里/夸克/天翼网盘影视源，4K 原盘秒播 |
 | TVBox-源 | [meinvtuzai/PyramidStore-18](https://github.com/meinvtuzai/PyramidStore-18) | Python 脚本源，支持自建爬虫，想抓啥抓啥 |
@@ -86,7 +86,7 @@
 | TVBox-工具 | [Greatwallcorner/TV-Multiplatform](https://github.com/Greatwallcorner/TV-Multiplatform) | 一条命令打包 Android/TV/手机三端 |
 | TVBox-工具 | [clevebitr/LumenTV-Compose](https://github.com/clevebitr/LumenTV-Compose) | 基于TV-Multiplatform、fonmi/TV项目的， 简单桌面版本实现 |
 | TVBox-工具 | [lushunming/AndroidCatVodSpider](https://github.com/lushunming/AndroidCatVodSpider) | 网盘爬虫源码，直接抄作业 |
-| TVBox-工具 | [ingriddaleusag-dotcom/PeekPiliRelease](https://github.com/ingriddaleusag-dotcom/PeekPiliRelease) | PiliPlus 二次开发 |
+| TVBox-工具 | [ingriddaleusag-dotcom/PeekPiliRelease](https://github.com/ingriddaleusag-dotcom/PeekPiliRelease) | PiliPlus 羊壳 二次开发 |
 | 弹幕-工具 | [huangxd-/danmu_api](https://github.com/huangxd-/danmu_api) | 弹幕 |
 
 | 网盘搜索 | [fish2018/pansou](https://github.com/fish2018/pansou) | 阿里/夸克/百度/蓝奏一站搜，结果带直链 |
